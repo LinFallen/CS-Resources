@@ -10,13 +10,7 @@
 
 阿秀人送外号：**行走的互联网资料大全**，不是开玩笑的~
 
-> 我是阿秀，一枚从底层慢慢爬到BAT、TMD级别的一线互联网大厂程序猿。欢迎各位添加我的个人微信来找我唠嗑~
->
-> 
->
-> 
->
-> ![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+> 我是阿秀，一枚从底层慢慢爬到BAT、TMD级别的一线互联网大厂程序猿。欢迎各位添加我的个人微信来找我唠嗑
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/BktAsjcTbXicNtmNAZGH36XzUNBniazW2VD9L777RqJsiaBG8Z1CzlCXZuGAusgrib7lDZoDkEmRiaQ8c3xicRXmp5SQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)拓跋阿秀：资源合集
 
@@ -26,17 +20,8 @@
 
 其中计算机经典书籍PDF等，我基本都收录在个人的**码云和 github 书籍**仓库中了。
 
-> “
->
 > 超过**1000本**的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
-
-![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
-
-![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
-
-![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
-
-![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+> 
 
 **码云**地址：https://gitee.com/ForthEspada/CS-Books
 
@@ -57,14 +42,6 @@
 - 《InterviewGuide》也就是逆袭进大厂系列，已经帮助很多人顺利进入腾讯、字节跳动等一线互联网大厂了。
 
   **离线版PDF**：https://pan.baidu.com/s/101k1ii8x6dsWtta690vsow   提取码：2ryp
-
-![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)腾讯WXG、字节抖音
-
-![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)非科班上岸腾讯PCG
-
-![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)跟我一样普通学校，上岸CV算法岗
-
-![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)腾讯offer
 
 - 《打造完美简历系列》阿秀自身简历模板以及粉丝简历修改版本都在里面了，希望你能写好属于你自己的简历
 
